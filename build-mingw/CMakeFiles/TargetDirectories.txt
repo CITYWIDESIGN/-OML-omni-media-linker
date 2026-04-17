@@ -1,0 +1,3 @@
+C:/Users/cT/CLionProjects/omni-media-linker/build-mingw/CMakeFiles/omni_media_linker.dir
+C:/Users/cT/CLionProjects/omni-media-linker/build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/cT/CLionProjects/omni-media-linker/build-mingw/CMakeFiles/rebuild_cache.dir
